@@ -1,1 +1,7 @@
-this is alsoa new file for github
+
+new line for local and remote conflict
+new line for local and remote conflict
+new line for local and remote conflict
+new line for conflict
+
+s
