@@ -1,8 +1,1 @@
-this is alsoa new file for github
-this a new line of file 2 for merging github branches
-this line is to see conflict
-
-tjis line is to see conflict
-
-new line for conflict
 new line for local and remote conflict
