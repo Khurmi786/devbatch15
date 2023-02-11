@@ -1,2 +1,7 @@
+
 new line for local and remote conflict
 new line for local and remote conflict
+new line for local and remote conflict
+new line for conflict
+
+s
